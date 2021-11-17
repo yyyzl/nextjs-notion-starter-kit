@@ -1,14 +1,16 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '75d47038e4764a52b8fbf32a7ee818d0',
+  //真实需要填的：
+  rootNotionPageId: '',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
+  //真实地址：https://www.notion.so/yyyzl/75d47038e4764a52b8fbf32a7ee818d0
   name: 'study',
-  domain: 'https://www.notion.so/yyyzl/75d47038e4764a52b8fbf32a7ee818d0',
+  domain: 'https://www.no',
   author: 'yyyzl',
 
   // open graph metadata (optional)
